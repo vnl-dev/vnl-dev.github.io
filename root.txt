@@ -1,0 +1,55 @@
+VNL.dev Root Structure
+=====================
+
+/vnl.dev/
+├── public/                      # Public facing assets
+│   ├── index.html              # Homepage
+│   ├── about.html              # About page
+│   ├── contact.html            # Contact page
+│   ├── search.html             # Search interface
+│   ├── css/                    # Stylesheets
+│   ├── js/                     # JavaScript files
+│   └── assets/                 # Images, fonts, etc.
+│
+├── src/                        # Source code
+│   ├── core/                   # Core VNL functionality
+│   ├── languages/              # Language specific handlers
+│   └── utils/                  # Utility functions
+│
+├── api/                        # API endpoints
+│   ├── v1/                    
+│   └── docs/                   
+│
+├── docs/                       # Documentation
+│   ├── guides/                
+│   └── examples/              
+│
+├── config/                     # Configuration files
+│   ├── languages.json         
+│   └── settings.json          
+│
+├── tests/                      # Test suites
+│   ├── unit/                  
+│   └── integration/           
+│
+└── tools/                      # Development tools
+    └── scripts/               
+
+Security:
+- SSL/TLS enabled
+- API rate limiting
+- Input validation
+- XSS protection
+- CSRF protection
+
+Access Control:
+- Owner: Full access
+- Admin: System management
+- Moderator: Content management
+- Helper: Support access
+- User: Basic access
+
+Version Control:
+- Git repository
+- Protected branches
+- Automated CI/CD
