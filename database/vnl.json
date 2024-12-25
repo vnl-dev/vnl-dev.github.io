@@ -1,12 +1,11 @@
 {
-  {
-  "vnl": {
-    "Shortcut": "VNL",
-    "Name": "Virtual Notebook Language",
-    "Version": "v0.0.2" 
-  },
-  "Language": {
-          "JS",
+    "vnl": {
+        "Shortcut": "VNL",
+        "Name": "Virtual Notebook Language",
+        "Version": "v0.0.2"
+    },
+    "Language": [
+        "JS",
         "Python",
         "HTML",
         "CSS",
@@ -24,17 +23,15 @@
         "Java",
         "Swift",
         "Rust"
-  },
-  "GitHub": {
-    "Git reposirity": "https://github.com/vnl-dev/vnl-lang",
-    "Git reposirity": "https://github.com/vnl-dev/vnl-dev.github.io",
-    "Website": "https://vnl-dev.github.io"
-  },
-  "Additions": {
-    "License": "MIT",
-    "Ownership": "Vojtaa3181",
-    "ToS": "ToS.md"
-  }
-  
-  }
+    ],
+    "GitHub": {
+        "Repo1": "https://github.com/vnl-dev/vnl-lang",
+        "Repo2": "https://github.com/vnl-dev/vnl-dev.github.io",
+        "Website": "https://vnl-dev.github.io"
+    },
+    "Additions": {
+        "License": "MIT",
+        "Ownership": "Vojtaa3181",
+        "ToS": "ToS.md"
+    }
 }
