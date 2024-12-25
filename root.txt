@@ -7,6 +7,7 @@ VNL.dev Root Structure
 │   ├── about.html              # About page
 │   ├── contact.html            # Contact page
 │   ├── search.html             # Search interface
+│   ├── docs.html               # Documentation
 │   ├── css/                    # Stylesheets
 │   ├── js/                     # JavaScript files
 │   └── assets/                 # Images, fonts, etc.
