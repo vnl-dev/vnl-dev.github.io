@@ -22,4 +22,4 @@ VNL.dev is not liable for any damages arising from the use or inability to use t
 VNL.dev reserves the right to terminate or restrict access to any part of the Service at any time without prior notice.
 
 ## 8. Contact Information
-For any questions or comments regarding these Terms of Service, you can contact us at [email@vnl.dev].
+For any questions or comments regarding these Terms of Service, you can contact us at [vojtech.dev@gmail.com].
