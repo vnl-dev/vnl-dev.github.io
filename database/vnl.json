@@ -26,7 +26,14 @@
         "Rust"
   },
   "GitHub": {
-    "Git reposirity": ""
+    "Git reposirity": "https://github.com/vnl-dev/vnl-lang",
+    "Git reposirity": "https://github.com/vnl-dev/vnl-dev.github.io",
+    "Website": "https://vnl-dev.github.io"
+  },
+  "Additions": {
+    "License": "MIT",
+    "Ownership": "Vojtaa3181",
+    "ToS": "ToS.md"
   }
   
   }
