@@ -10,30 +10,6 @@ VNL.dev Root Structure
 │   ├── css/                    # Stylesheets
 │   ├── js/                     # JavaScript files
 │   └── assets/                 # Images, fonts, etc.
-│
-├── src/                        # Source code
-│   ├── core/                   # Core VNL functionality
-│   ├── languages/              # Language specific handlers
-│   └── utils/                  # Utility functions
-│
-├── api/                        # API endpoints
-│   ├── v1/                    
-│   └── docs/                   
-│
-├── docs/                       # Documentation
-│   ├── guides/                
-│   └── examples/              
-│
-├── config/                     # Configuration files
-│   ├── languages.json         
-│   └── settings.json          
-│
-├── tests/                      # Test suites
-│   ├── unit/                  
-│   └── integration/           
-│
-└── tools/                      # Development tools
-    └── scripts/               
 
 Security:
 - SSL/TLS enabled
