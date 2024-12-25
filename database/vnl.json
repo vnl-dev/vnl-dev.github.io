@@ -1,0 +1,33 @@
+{
+  {
+  "vnl": {
+    "Shortcut": "VNL",
+    "Name": "Virtual Notebook Language",
+    "Version": "v0.0.2" 
+  },
+  "Language": {
+          "JS",
+        "Python",
+        "HTML",
+        "CSS",
+        "TS",
+        "Bash",
+        "PHP",
+        "Ruby",
+        "JSON",
+        "SQL",
+        "Perl",
+        "Go",
+        "Lua",
+        "C",
+        "C++",
+        "Java",
+        "Swift",
+        "Rust"
+  },
+  "GitHub": {
+    "Git reposirity": ""
+  }
+  
+  }
+}
